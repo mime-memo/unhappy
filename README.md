@@ -27,7 +27,7 @@ To use the dataset and code, follow these steps:
 The dataset and code in this repository are released under the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
 
 ## Citation
-For more details about the sentiment annoatation and classification, please read further in the following paper:
+For more details about the sentiment annoatation and classification, please read further in [the following paper](https://openreview.net/forum?id=dszKbb2GH3):
 
 ```
 @inproceedings{allaith2023sentiment,
