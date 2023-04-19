@@ -1,4 +1,4 @@
-# The Unhappy Texts
+# Sentiment Classification of Historical Literary in Danish and Norwegian Texts
 ## Description
 This project describes a study on sentiment classification in literary analysis of 19th-century Scandinavian novels by female authors. We create a dataset, train and evaluate sentiment classification methods, and use pre-trained language models to confirm and contest a literary hypothesis that the writing of female authors in that period was characterized by negative sentiment. The dataset and trained models are expected to be valuable for future analysis of historical Danish and Norwegian literary texts.
 
