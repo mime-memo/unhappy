@@ -24,16 +24,15 @@ To use the dataset and code, follow these steps:
 4. Run the Python code files using your preferred IDE or Python environment to understand how to load, preprocess, and analyze the historical text data.
 
 ## License
-Specify the license under which you are making the dataset and code available, for example:
-
-The dataset and code in this repository are released under the [LICENSE NAME] license.
+The dataset and code in this repository are released under the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
 
 ## Citation
 For more details about the sentiment annoatation and classification, please read further in the following paper:
 
+```
 @inproceedings{allaith2023sentiment,
 title={Sentiment Classification of Historical Literary in {D}anish and {N}orwegian Texts},
-author={ALI ALLAITH and Kirstine Nielsen Degn and Alexander Conroy and Bolette S. Pedersen and Jens Bjerring-Hansen and Daniel Hershcovich},
+author={Ali Al-Laith and Kirstine Nielsen Degn and Alexander Conroy and Bolette S. Pedersen and Jens Bjerring-Hansen and Daniel Hershcovich},
 booktitle={The 24rd Nordic Conference on Computational Linguistics},
 year={2023},
 url={https://openreview.net/forum?id=dszKbb2GH3}
